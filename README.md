@@ -1,1 +1,1 @@
-# smartLearn
+# https://taskwise-scholars.lovable.app
